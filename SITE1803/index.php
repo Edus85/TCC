@@ -26,7 +26,7 @@
                     </div>
                                    
                     <div class="logo_header">
-                    <img src="imagens/logo_header.jpeg" class="img_logo_header" alt="Logo Flash Party">
+                    <img src="imagens/logosemf.png" class="img_logo_header" alt="Logo Flash Party">
                     </div>  
 
                     <nav id="navbar">
